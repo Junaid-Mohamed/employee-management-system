@@ -1,0 +1,32 @@
+[
+  {
+    "empId": 30857,
+    "name": "John",
+    "age": "23",
+    "designation": "Data Analyst"
+  },
+  {
+    "empId": 96065,
+    "name": "Teena",
+    "age": "34",
+    "designation": "Software Engineer"
+  },
+  {
+    "empId": 46039,
+    "name": "Suhail",
+    "age": "21",
+    "designation": "Data Scientiest"
+  },
+  {
+    "empId": 68546,
+    "name": "Misbaa",
+    "age": "23",
+    "designation": "Technical Engineer"
+  },
+  {
+    "empId": 50017,
+    "name": "Shab",
+    "age": "27",
+    "designation": "SCA"
+  }
+]
